@@ -116,7 +116,22 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## Support
 
 Pour toute question ou problème, veuillez créer une issue sur le dépôt GitHub ou contacter l'équipe de développement.
+<img width="3412" height="1960" alt="image" src="https://github.com/user-attachments/assets/36c8492d-480d-443a-8b73-48cac0be4129" />
+<img width="3455" height="1965" alt="image" src="https://github.com/user-attachments/assets/2c11d30a-9c61-4581-91a4-dda950de5af4" />
+<img width="3455" height="1875" alt="image" src="https://github.com/user-attachments/assets/9f5e3eb2-650b-4d44-bbe7-b5819025ef82" />
+<img width="3455" height="1845" alt="image" src="https://github.com/user-attachments/assets/dbb064e6-dfeb-484d-844c-b0ec829b6468" />
+<img width="3455" height="1860" alt="image" src="https://github.com/user-attachments/assets/a376c308-caf9-4f1d-9103-c48752586996" />
+<img width="3452" height="1870" alt="image" src="https://github.com/user-attachments/assets/3fdc1009-4e03-4468-a9c4-19d96c6936be" />
+<img width="1210" height="1622" alt="image" src="https://github.com/user-attachments/assets/a3319d2a-5711-4a77-a837-b134c8b0e97b" />
+
+
+
+
+
+
 
 ---
 
 **Note** : Cette application est conçue pour un usage médical professionnel. Assurez-vous de respecter toutes les réglementations locales concernant la confidentialité des données médicales (comme HIPAA, RGPD, etc.).
+
+faites par Benaboud Roqia etudiante en master IA&SD
